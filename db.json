@@ -1,0 +1,207 @@
+{
+  "watch": [
+    {
+      "id": 1,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38073AP01_1.jpg?pView=listing",
+      "name": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "price": 4495,
+      "cutoff_price": "₹6495",
+      "discount": "(31) off"
+    },
+    {
+      "id": 2,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38073AP02_1.jpg?pView=listing",
+      "name": "REFLEX CURV SMART WATCH WITH SILICONE BLUE STRAP",
+      "price": 4495,
+      "cutoff_price": "₹6495",
+      "discount": "(31) off"
+    },
+    {
+      "id": 3,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/68024AP01_1.jpg?pView=listing",
+      "name": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+      "price": 3995,
+      "cutoff_price": "₹5995",
+      "discount": "(33) off"
+    },
+    {
+      "id": 4,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/68024AP02_1.jpg?pView=listing",
+      "name": "REFLEX  SMART WATCH WITH SILICONE BLUE STRAP",
+      "price": 3995,
+      "cutoff_price": "₹5995",
+      "discount": "(33) off"
+    },
+    {
+      "id": 5,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38072AP01_1.jpg?pView=listing",
+      "name": "REFLEX VOX DIGITAL SILICONE BLACK STRAP",
+      "price": 3995,
+      "cutoff_price": "₹5995",
+      "discount": "(33) off"
+    },
+    {
+      "id": 6,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38072AP02_1.jpg?pView=listing",
+      "name": "REFLEX VOX DIGITAL SILICONE BLUE STRAP",
+      "price": 4995,
+      "cutoff_price": "₹6995",
+      "discount": "(29) off"
+    },
+    {
+      "id": 7,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38072AP04_1.jpg?pView=listing",
+      "name": "REFLEX VOX DIGITAL SILICONE RED STRAP WATCH",
+      "price": 4995,
+      "cutoff_price": "₹6995",
+      "discount": "(29) off"
+    },
+    {
+      "id": 8,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/3287NM01_1.jpg?pView=listing",
+      "name": "TICK TOCK BLACK DIAL METAL STRAP WATCH",
+      "price": 3595
+    },
+    {
+      "id": 9,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/3287QM01_1.jpg?pView=listing",
+      "name": "TICK TOCK BROWN DIAL METAL STRAP WATCH",
+      "price": 3995
+    },
+    {
+      "id": 10,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/3287QM01_1.jpg?pView=listing",
+      "name": "TICK TOCK BROWN DIAL METAL STRAP WATCH",
+      "price": 3995
+    },
+    {
+      "id": 11,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/68011PP08_1.jpg?pView=listing",
+      "name": "FAST FIT WATCH WITH COOL GREY DIAL",
+      "price": 895
+    },
+    {
+      "id": 12,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/6216QM01_1.jpg?pView=listing",
+      "name": "FASTRACK RUFFLES BEIGE DIAL STAINLESSSTEEL WRAP STRAP WATCH",
+      "price": 895
+    },
+    {
+      "id": 13,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/SWD90067PP02A_1.jpg?pView=listing",
+      "name": "REFLEX 3.0 DUAL TONNED SMART BRAND IN MIDNIGHT BLACK",
+      "price": 1795
+    },
+    {
+      "id": 14,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/6216WM01_1.jpg?pView=listing",
+      "name": "FASTRACK RUFFLES PINK DIALS STAINLESS STEEL STRAP WATCH",
+      "price": 3695
+    },
+    {
+      "id": 15,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/SWD90067PP04A_1.jpg?pView=listing",
+      "name": "REFLEX 3.0 DUAL TONNED SMART BRAND IN PINK STARP",
+      "price": 1795
+    },
+    {
+      "id": 15,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/6207WM01_1.jpg?pView=listing",
+      "name": "FASTRACK RUFLES BLACK DIAL METAL MESH STRAP WATCH",
+      "price": 3395
+    },
+    {
+      "id": 16,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/6222NM01_1.jpg?pView=listing",
+      "name": "FAST TRACK ANIMAL PRINTWATCH WITHBLACK DIAL",
+      "price": 2595
+    },
+    {
+      "id": 17,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/68013PP10_1.jpg?pView=listing",
+      "name": "FAST FIT WATCH WITH GREY DIAL",
+      "price": 950
+    },
+    {
+      "id": 18,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/3263NP01_1.jpg?pView=listing",
+      "name": "COCO-COLA EDITION BY FASTRACK BLACK DIAL BLACK PLASTIC",
+      "price": 2795
+    },
+    {
+      "id": 19,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38045PP03_1.jpg?pView=listing",
+      "name": "TRENDIES BLACK DIAL SILICONE STRAP WATCH",
+      "price": 2295
+    },
+    {
+      "id": 20,
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/6256SP02_1.jpg?pView=listing",
+      "name": "COCO-COLA EDITION BY FASTRACK BLACK DIAL BLACK NYLON STRAP WATCH",
+      "price": 1895
+    }
+  ],
+  "postwatch": [
+    {
+      "homedata": {
+        "id": 1,
+        "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38073AP01_1.jpg?pView=listing",
+        "name": "REFLEX CURV SMART WATCH WITH SILICONE BLACK STRAP",
+        "price": 4495,
+        "cutoff_price": "₹6495",
+        "discount": "(31) off"
+      },
+      "count": 2,
+      "total": 4495,
+      "id": 13
+    },
+    {
+      "homedata": {
+        "id": 7,
+        "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38072AP04_1.jpg?pView=listing",
+        "name": "REFLEX VOX DIGITAL SILICONE RED STRAP WATCH",
+        "price": 4995,
+        "cutoff_price": "₹6995",
+        "discount": "(29) off"
+      },
+      "count": 2,
+      "total": 4995,
+      "id": 14
+    },
+    {
+      "homedata": {
+        "id": 16,
+        "img": "https://staticimg.titan.co.in/Fastrack/Catalog/6222NM01_1.jpg?pView=listing",
+        "name": "FAST TRACK ANIMAL PRINTWATCH WITHBLACK DIAL",
+        "price": 2595
+      },
+      "count": 2,
+      "total": 2595,
+      "id": 15
+    },
+    {
+      "homedata": {
+        "id": 5,
+        "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38072AP01_1.jpg?pView=listing",
+        "name": "REFLEX VOX DIGITAL SILICONE BLACK STRAP",
+        "price": 3995,
+        "cutoff_price": "₹5995",
+        "discount": "(33) off"
+      },
+      "count": 10,
+      "total": 3995,
+      "id": 16
+    },
+    {
+      "homedata": 19,
+      "count": 7,
+      "total": 1,
+      "id": 17
+    },
+    {
+      "homedata": 3,
+      "count": 1,
+      "id": 18
+    }
+  ]
+}

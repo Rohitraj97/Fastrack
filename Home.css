@@ -1,0 +1,153 @@
+
+.left{
+    border: 2px solid red;
+    width:20%;
+    
+}
+.left>h3{
+    font-size: 25px;
+    margin-left: 10px;
+}
+.right{
+    border: 3px solid teal;
+    width:70%;
+}
+
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+
+.left>h1{
+    text-align: left;
+}
+
+
+.left>h3{
+    text-align: left;
+}
+
+.button{
+    width:100%;
+    border: 1px solid coral;
+    margin-bottom: 50px;
+}
+.button>button{
+    width:100%;
+    height:80px;
+    padding: 16px 20px;
+    /* display:inline-block; */
+}
+
+
+button{
+    font-size: 22px;
+    font-weight: bold;
+    text-align: left;
+    background-color: rgb(246,246,246);
+}
+
+.sort{
+    width: 200px;
+    height: 50px;
+}
+.sort>option{
+    font-size: 30px;
+}
+
+ 
+.top{
+    border: 2px solid red;
+    display: flex;
+     flex-direction: row-reverse;
+    border: none;
+    margin: 15px;
+    background-color: white;
+
+}
+ .top>select{
+    border: none;
+    font-size: 16px;
+ }
+
+.cardfather{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 5px;
+}
+
+ 
+.pricemain{
+    display: flex;
+    /* border: 2px solid teal; */
+    width: 50%;
+    margin: auto;
+    
+}
+
+.pricemain>div{
+    margin: 5px;
+    /* border: 1px solid red; */
+}
+.discount{
+    color: red;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.cutoff{
+    text-decoration: line-through;
+    color: grey;
+    font-size: 14px;
+}
+
+.price{
+    font-size: 14px;
+    color: black;
+}
+.quick{
+     width: 100%;
+     height: 60px;
+     /* border: 2px solid red; */
+}
+.quckbutton{
+    width: 100%;
+    height: 60px;
+    /* border: 2px solid red; */
+    background-color:rgb(34,34,34);
+    text-align: center;
+    text-orientation: upright;
+    color: white;
+    /* display: none; */
+}
+
+.quckbutton:hover{
+    display:text;
+    /* background-color: red; */
+}
+ .homecard{
+    /* border: 2px solid red; */
+    position: relative;
+    margin: 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+ }
+
+ .homecard:hover{
+    width:350px;
+    height:350px;
+   
+ }
+   
+ .page{
+    /* border: 2px solid red; */
+    width: 30%;
+    display: flex;
+    margin:40px auto;
+    justify-content: space-around;
+
+ }
+
+.name{
+    text-align: center;
+}

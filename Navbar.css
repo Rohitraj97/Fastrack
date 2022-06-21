@@ -1,0 +1,24 @@
+.nav{
+    border: 2px solid green;
+    height: 66px;
+    background-color: rgb(3,193,179);
+    
+}
+
+.black{
+    border: 2px solid black;
+    height:44px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(34,34,34);
+}
+
+h3{
+    color: coral;
+     
+
+}
+.black>div>h3{
+    margin: 2rem;
+ 
+}

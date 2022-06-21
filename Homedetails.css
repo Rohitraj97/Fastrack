@@ -1,0 +1,91 @@
+ .detailsmain{
+   width: 70%;
+   margin:10px auto;
+    /* border: 2px solid red; */
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(1,1fr);
+    /* margin:10px; */
+ }
+
+ .imagedetails{
+    /* border: 2px solid teal; */
+    /* width:40%; */
+    margin: 10px;
+     
+ }
+ .imagedetails>img{
+   width: 100%;
+   height: 80%;
+   /* border: 2px solid red; */
+ }
+
+ .textdetails{
+    /* border: 2px solid brown; */
+    /* width: 50%; */
+ }
+
+ .namedetails{
+    /* border: 2px solid blue; */
+    /* width: 70%; */
+    margin-top:60px;
+    text-align: left;
+ }
+
+ .pricedetails{
+    text-align: center;
+ }
+
+ .maincount{
+    display: flex;
+    /* border: 2px solid red; */
+    width:50%;
+    margin-left: 60px;
+ }
+
+
+ .imagedetailsmini>img{
+    width: 100%;
+ }
+
+ .detailsmainmini{
+    /* border: 2px solid red; */
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    display: flex;
+    border-radius: 10px;
+ }
+
+ .imagedetailsmini{
+    /* border: 2px solid teal; */
+    width:40%;
+    margin: 10px;
+ }
+
+ .textdetailsmini{
+    /* border: 2px solid brown; */
+    width: 50%;
+ }
+
+ .namedetailsmini{
+    /* border: 2px solid blue; */
+    width: 70%;
+    margin: auto;
+    text-align: left;
+ }
+
+ .pricedetailsmini{
+    text-align: left;
+ }
+.images{
+   
+    width: 95%;
+    height: 350px;
+    /* border: 2px solid red; */
+     
+}
+.imagebox{
+   /* border: 2px solid teal; */
+    width: 90%;
+    margin: auto;
+    padding: 30px;
+}
